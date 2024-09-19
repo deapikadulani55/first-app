@@ -45,15 +45,15 @@ interface SettingsDocumentData {
   site_title: prismic.KeyTextField;
 
   /**
-   * Mega Description field in *Settings*
+   * Meta Description field in *Settings*
    *
    * - **Field Type**: Text
    * - **Placeholder**: *None*
-   * - **API ID Path**: settings.mega_description
+   * - **API ID Path**: settings.meta_description
    * - **Tab**: Main
    * - **Documentation**: https://prismic.io/docs/field#key-text
    */
-  mega_description: prismic.KeyTextField;
+  meta_description: prismic.KeyTextField;
 
   /**
    * OG Image field in *Settings*

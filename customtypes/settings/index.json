@@ -13,10 +13,10 @@
           "placeholder": ""
         }
       },
-      "mega_description": {
+      "meta_description": {
         "type": "Text",
         "config": {
-          "label": "Mega Description",
+          "label": "Meta Description",
           "placeholder": ""
         }
       },
